@@ -4,7 +4,7 @@ export default function Layout({ children }) {
   return (
     <>
       <Navbar />
-      <main className="bg-center bg-hero_pattern bg-no-repeat bg-cover" > 
+      <main > 
       {children}
       </main>
     </>

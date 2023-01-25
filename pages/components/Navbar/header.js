@@ -82,7 +82,7 @@ export default function Navbar() {
   return (
 //desktop View
     <Popover className="relative bg-white bg-regal-blue">
-      <div className="mx-auto max-w-full px-40 " >
+      <div className="mx-auto max-w-full bg-regal-blue px-40 " >
         <div className="flex items-center justify-between py-6 md:justify-start md:space-x-10">
           <div className="flex justify-start lg:w-0 lg:flex-1">
             <a href="#">

@@ -15,7 +15,7 @@ module.exports = {
       colors: {
         'regal-blue': '#0F0F0F',
         'font-gray': '#958C8D',
-        'font-green': '#01FF01'
+        'font-green': '#01FF01',
       },
       backgroundImage: {
         'hero_pattern': "url('/razer-nari-hero-desktop-wireless-gaming-headset CL.jpg')",

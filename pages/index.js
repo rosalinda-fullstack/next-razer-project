@@ -2,6 +2,8 @@ import Head from 'next/head'
 import { Inter } from '@next/font/google'
 import styles from '@/styles/Home.module.css'
 import Hero from '@/pages/components/Hero'
+import Complemented from '@/pages/components/Complemented'
+import ProductSlider from './components/ProductSlider'
 const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
@@ -17,6 +19,8 @@ export default function Home() {
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;900&display=swap" rel="stylesheet" />
       </Head>
       <Hero />
+      <Complemented />
+      <ProductSlider />
     </>
   )
 }

@@ -7,7 +7,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 
 export default function Hero() {
   return (
-        <div className="relative px-6 lg:px-8 " >
+        <div className="relative px-6 lg:px-8 bg-center bg-hero_pattern bg-no-repeat bg-cover" >
           <div className="mx-auto max-w-full px-40   flex pt-20 pb-32 sm:pt-48 sm:pb-30">
             <div className='flex-auto w-64' >
               <div >
