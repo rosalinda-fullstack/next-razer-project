@@ -1,10 +1,3 @@
-/* This example requires Tailwind CSS v3.0+ */
-import { useState } from 'react'
-import { Dialog } from '@headlessui/react'
-import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
-
-
-
 export default function Hero() {
   return (
         <div className="relative px-6 lg:px-8 bg-center bg-hero_pattern bg-no-repeat bg-cover" >

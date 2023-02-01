@@ -1,6 +1,6 @@
 export const swiperImage = [
     {
-      src: '/razer-nari-gallery-03-wireless-gaming-headset xs.jpg/',
+      src: '/razer-nari-gallery-05-wireless-gaming-headset XS.jpg/',
     },
     {
         src: '/razer-nari-gallery-05-wireless-gaming-headset XS.jpg/',

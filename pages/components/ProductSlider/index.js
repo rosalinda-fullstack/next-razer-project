@@ -2,6 +2,7 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { swiperImage } from './swiperImage';
 import React, { useState } from 'react';
+
 // Import Swiper styles
 import 'swiper/css';
 
@@ -14,7 +15,7 @@ export default function ProductSlider() {
     <div className="mx-auto bg-regal-blue px-40  pt-20 pb-32 sm:pt-10 sm:pb-30 text-center "> 
     <div className="max-w-7xl m-auto border-t-2 border-font-gray border-t-solid">
         <div className=' pt-20 pb-20 sm:pt-34'>
-            <h2 class="text-font-green font-medium font-Montserrat  leading-tight text-4xl mt-0 mb-2 uppercase font-semibold">Product Images</h2>
+            <h2 className='text-font-green font-small font-Montserrat  leading-tight text-2xl mt-0 mb-2 uppercase font-semibold'>Product Images</h2>
         </div>
         <div>
             <Swiper

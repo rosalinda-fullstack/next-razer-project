@@ -19,6 +19,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero_pattern': "url('/razer-nari-hero-desktop-wireless-gaming-headset CL.jpg')",
+        'bg-spatial': "url('/razer-nari-usp02-desktop-wireless-gaming-headset.jpg')",
       },
       minHeight: {
         'full-container':' 100vh'

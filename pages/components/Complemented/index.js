@@ -5,10 +5,10 @@ export default function Complemented() {
     // const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
     return (
         <>
-            <div className="mx-auto bg-regal-blue px-40  pt-20 pb-32 sm:pt-48 sm:pb-30 text-center"> 
+            <div className="mx-auto bg-regal-blue px-40  pt-20 pb-32  sm:pb-30 text-center"> 
             <div className="max-w-7xl m-auto">
                 <div>
-                    <h2 class="text-font-green font-medium font-Montserrat  leading-tight text-4xl mt-0 mb-2 uppercase font-semibold">Complemented by Comfort</h2>
+                    <h2 class="text-font-green font-small font-Montserrat  leading-tight text-2xl mt-0 mb-2 uppercase font-semibold">Complemented by Comfort</h2>
                     <p className="text-font-gray font-Montserrat mt-6 text-lg ">
                         The Razer Nari is designed so that its immersive technology is complemented by comfortable features, letting you escape into game worlds for hours without strain.
                     </p>
